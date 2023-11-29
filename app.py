@@ -42,4 +42,4 @@ def predict():
         return render_template('index.html',prediction=prediction)
 
 
-app.run(debug=True,use_reloader=True)
+# app.run(debug=True,use_reloader=True)
